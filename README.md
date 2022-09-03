@@ -1,1 +1,1 @@
-a baisc twitter frontend website
+a basic twitter frontend website
